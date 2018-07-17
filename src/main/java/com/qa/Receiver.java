@@ -1,6 +1,5 @@
 package com.qa;
 
-import java.util.concurrent.CountDownLatch;
 import org.springframework.stereotype.Component;
 
 @Component
